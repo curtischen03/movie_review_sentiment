@@ -65,9 +65,10 @@ def predict(fileName):
     else:
         print("Very likely a good review")
 
-predict("topgun.txt")
+#examples:
+'''predict("topgun.txt")
 predict("morbius.txt")
 predict("interstellar.txt")
 predict("emojimovie.txt")
-predict("spiderman2.txt")
+predict("spiderman2.txt")'''
       

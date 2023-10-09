@@ -31,6 +31,12 @@ data = [[finalReviews[i],finalRatings[i]] for i in range(len(finalRatings))]
 data = pd.DataFrame(data,columns=header)
 data.to_csv('revised_tomatoes.csv',index=False)
 
+#create accuracy file
+header = ['Accuracy']
+accuracy_data = [[0]]
+accuracy_data = pd.DataFrame(accuracy_data,columns=header)
+accuracy_data.to_csv('accuracy.csv',index=False)
+
 
 
 
