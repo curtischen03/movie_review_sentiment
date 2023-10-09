@@ -1,1 +1,1 @@
-# movie_review_sentiment
+This is a machine learning project that uses neural networks to determine the sentiment of a movie review (either good-1 or bad-0).
