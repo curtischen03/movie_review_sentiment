@@ -1,15 +1,15 @@
 This is a machine learning project that uses neural networks to determine the sentiment of a movie, which is either good (1) or bad (0).
 
 Datasets used: 
-Kaggle - Rotten 'Tomatoes movies and critic reviews dataset' (used data in 'review_type' and 'review_content')
-https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/
-Keras - IMDB (used data regarding the rating and review)
+Kaggle - Rotten 'Tomatoes movies and critic reviews dataset' (used data in 'review_type' and 'review_content')\
+https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/\
+Keras - IMDB (used data regarding the rating and review)\
 
-Packages used:
-tensorflow
-numpy
-pandas
-sklearn
+Packages used:\
+tensorflow\
+numpy\
+pandas\
+sklearn\
 
 Steps to replicate: 
 1. Download the Kaggle 'Rotten Tomatoes movies and critic reviews dataset' and extract the rotten_tomatoes_critic_reviews.csv file.
