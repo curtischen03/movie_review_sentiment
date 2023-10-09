@@ -19,7 +19,7 @@ Steps to replicate:
 Testing your own data:
 1. Import your own textfiles from different movie reviews.
 2. Edit the predict.py script and add function calls for predict.
-'''
+```
 predict("your_textfile_name.txt")
-'''
+```
 3. Run the predict.py script.
